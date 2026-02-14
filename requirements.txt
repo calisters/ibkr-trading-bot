@@ -1,0 +1,23 @@
+# IBKR Trading Bot - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core IB connectivity
+ib-insync>=0.9.86
+
+# Clipboard functionality
+pyperclip>=1.8.2
+
+# Keyboard hotkeys (Windows/Linux)
+keyboard>=0.13.5
+
+# Terminal colors
+colorama>=0.4.6
+
+# Async support (included in Python 3.8+, but listed for clarity)
+# asyncio is part of standard library
+
+# Type hints support (Python 3.8+)
+typing-extensions>=4.5.0
+
+# Optional but recommended
+python-dateutil>=2.8.2
