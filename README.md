@@ -273,9 +273,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Upwork: upwork.com/freelancers/~01287a98d9ca2d5334
 
-Project Link: [https://github.com/yourusername/ibkr-trading-bot](https://github.com/yourusername/ibkr-trading-bot)
+Project Link: [https://github.com/calisters/ibkr-trading-bot](https://github.com/calisters/ibkr-trading-bot)
 
 ---
 
