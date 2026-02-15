@@ -2,8 +2,8 @@
 IBKR Momentum Trading Bot - DEADHAND v2.0
 Clipboard-based tactical execution interface for Interactive Brokers
 
-Author: Your Name
-Repository: https://github.com/yourusername/ibkr-trading-bot
+Author: Calisters
+Repository: https://github.com/calisters/ibkr-trading-bot
 """
 
 import asyncio
