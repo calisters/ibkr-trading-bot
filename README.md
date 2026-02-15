@@ -273,6 +273,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
+Mail: calistersmasombo7@gmail.com
+
 Upwork: upwork.com/freelancers/~01287a98d9ca2d5334
 
 Project Link: [https://github.com/calisters/ibkr-trading-bot](https://github.com/calisters/ibkr-trading-bot)
