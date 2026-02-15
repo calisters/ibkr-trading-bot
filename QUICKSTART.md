@@ -10,7 +10,7 @@
 ### Step 2: Install Bot
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ibkr-trading-bot.git
+git clone https://github.com/calisters/ibkr-trading-bot.git
 cd ibkr-trading-bot
 
 # Create virtual environment
@@ -84,8 +84,8 @@ Watch the terminal for status updates.
 ## Need Help?
 
 - 📖 Full documentation: [README.md](README.md)
-- 💬 Issues: [GitHub Issues](https://github.com/yourusername/ibkr-trading-bot/issues)
-- 📧 Contact: your.email@example.com
+- 💬 Issues: [GitHub Issues](https://github.com/calisters/ibkr-trading-bot/issues)
+- 📧 Contact: calistersmasombo7@gmail.com
 
 ---
 
